@@ -45,10 +45,16 @@ def equality(num1, num2):
 	elif num2 != num1: # difference
 		print("{} is not equal to {}".format(num1, num2))
 	elif num1 == num2: # equality
-		print("{} is equal to {}".format(num1, num2))
+		print("%s is equal to %s" % (num1, num2)) # String Formatting
 	else:
 		print("bye")
 
-equality(10,9)
+equality(10,10)
 
+# Truth Test
+obj = 8
+if obj:
+	print("true")
+else:
+	print("false")
 
