@@ -31,6 +31,8 @@ def calculate(value):
 	print(division)
 	modulo = division % 17 # modulo
 	print(modulo)
+	floor_division = multiplication // 15 # floor division
+	print(floor_division)
 
 calculate(54)
 
