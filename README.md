@@ -1,6 +1,6 @@
 # Python Practice
 
-A space to practice Python and apply new concepts
+A space to practice Python and apply new concepts. So far I've covered:
 
-## Operators
-## Recursion
+- operators
+- recursion
