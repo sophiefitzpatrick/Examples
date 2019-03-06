@@ -58,3 +58,9 @@ if obj:
 else:
 	print("false")
 
+# Inplace Operators
+num1 = 6
+num1 += 8
+print(num1)
+
+
