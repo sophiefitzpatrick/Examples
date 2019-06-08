@@ -6,3 +6,5 @@ A space to practice Python and apply new concepts. So far I've covered:
 - recursion
 - classes
 - control flow
+- sorting_algorithm
+- break, pass, continue
